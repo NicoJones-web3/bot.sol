@@ -37,10 +37,6 @@ Follow these steps to deploy and run your own trading bot:
 - To stop and withdraw funds, click **"Withdrawal"**
 - For best results, allow the bot to run for at least 24 hours
 
-## 🔗 Connect With Me
-
-- 📬 [Telegram](https://t.me/DemetrioLanter)
-
 ---
 
 ## 📄 License
